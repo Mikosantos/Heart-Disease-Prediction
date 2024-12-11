@@ -1,5 +1,3 @@
-# heart_failure_prediction
-
 # Contributions
 
 **Charlize Brodeth** - Report
